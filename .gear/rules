@@ -1,0 +1,2 @@
+spec: moonlight-qt.spec
+tar: @name@-@version@ name=@name@-@version@
